@@ -2,8 +2,8 @@ class Tmrwppk < Formula
   desc "Get tomorrow's electricity rates today!"
   homepage "https://github.com/hobakill/homebrew-tmrwppk"
   url "", :using => :nounzip
-  version "187"
-  sha256 "62caf85f43c3f27eb808b3bc64072d9db8a964d66745776fb9b686b23e590d5d"
+  version "0.0.6"
+  sha256 "a2e494395da67d936c3dde81e92328da0490af38676bd4cf0cb64a65880bbb02"
 
   bottle :unneeded
 
