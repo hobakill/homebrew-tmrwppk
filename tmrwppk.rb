@@ -3,7 +3,7 @@ class Tmrwppk < Formula
   homepage "https://github.com/hobakill/homebrew-tmrwppk"
   url "https://github.com/hobakill/homebrew-tmrwppk/blob/master/dist/tmrwppk.pex", :using => :nounzip
   version "0.0.6"
-  sha256 "a2e494395da67d936c3dde81e92328da0490af38676bd4cf0cb64a65880bbb02"
+  sha256 "f57d6adad6e39c8227622c2a3c65aeac374608f8"
 
   bottle :unneeded
 
