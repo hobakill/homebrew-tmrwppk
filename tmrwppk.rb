@@ -1,5 +1,5 @@
 class Tmrwppk < Formula
-  inclue Language::Python::Virtualenv
+  incldue Language::Python::Virtualenv
 
   version "v0.0.6"
   homepage "https://github.com/hobakill/tmrwppk"
